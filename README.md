@@ -49,10 +49,30 @@
 
 
 
-
 <h1 align="center">Hi 👋, I'm Kaushal Kumar</h1>
 
 <h3 align="center">🚀 Data Science | Machine Learning | Python Developer from India 🇮🇳</h3>
+
+
+
+<!-- ======================= -->
+<!-- 🔥 3D Animated Banner -->
+<!-- ======================= -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Kaushal%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Developer%20%7C%20Python%20Expert&descAlignY=60&descSize=18" />
+</p>
+
+<!-- Typing Animation -->
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F72E&center=true&vCenter=true&width=750&lines=Machine+Learning+Developer;Data+Science+Enthusiast;Python+Programmer;Deep+Learning+Learner;Open+Source+Contributor;Hire+Me+for+AI+Projects" />
+</p>
+
+---
+
+
+
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F72E&center=true&vCenter=true&width=700&lines=Machine+Learning+Developer;Data+Science+Enthusiast;Python+Programmer;Deep+Learning+Learner;Open+Source+Contributor" />
@@ -126,4 +146,25 @@
 
 <p align="center">
 "Consistency beats talent when talent doesn't work hard."
-</p>
+</p> -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
