@@ -65,31 +65,6 @@
 
 
 
-<!-- ===================================== -->
-<!-- 🔥 Banner With Left Side Profile Image -->
-<!-- ===================================== -->
-
-<p align="center">
-<table>
-<tr>
-<td width="35%" align="center">
-
-<img src="https://drive.google.com/file/d/1xrV9DNrouSBtrKaFaOUhcXmWDnxoHFDw/view?usp=sharing" width="220" style="border-radius:50%; border:4px solid #00F7FF;" />
-
-</td>
-
-<td width="65%" align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Kaushal%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20ML%20Developer%20|%20Python%20Expert&descAlignY=62&descSize=18" />
-
-</td>
-</tr>
-</table>
-</p>
-
-
-
-
 
 
 <!-- Typing Animation -->
