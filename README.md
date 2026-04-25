@@ -1,123 +1,91 @@
-<!-- <h1 align="center">Hi 👋, I'm Kaushal Kumar</h1>
-<h3 align="center">A passionate data enthusiast and machine learning developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushalkumar123456&label=Profile%20views&color=0e75b6&style=flat" alt="kaushalkumar123456" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaushalkumar123456" alt="kaushalkumar123456" /></a> </p>
-
-- 🔭 I’m currently working on [End-to-End ML Projects, Exploratory Data Analysis](github.com/kaushalkumar123456)
-
-- 🌱 I’m currently learning **Deep Learning, Model Deployment, MLOps**
-
-- 👯 I’m looking to collaborate on [Machine Learning, Data Science Projects](github.com/kaushalkumar123456)
-
-- 🤝 I’m looking for help with [Deploying ML Models and Advanced NLP Tasks](github.com/kaushalkumar123456)
-
-- 👨‍💻 All of my projects are available at [github.com/kaushalkumar123456](github.com/kaushalkumar123456)
-
-- 💬 Ask me about **Python, Machine Learning, Data Analysis, Jupyter, Git**
-
-- 📫 How to reach me **datascience.kaushal05@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/11Mt6lou2O5CqBL1A3JxTzAQRzvgNgWl7/view?usp=sharing](https://drive.google.com/file/d/11Mt6lou2O5CqBL1A3JxTzAQRzvgNgWl7/view?usp=sharing)
-
-- ⚡ Fun fact **I can spend hours debugging code and still find it oddly satisfying! 😄**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/kaushal-kumar-21749826b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kaushal-kumar-21749826b" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/hereitskaushal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/hereitskaushal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/kaushalkumar638486373/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/kaushalkumar638486373/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/kaushalkumaurpd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/kaushalkumaurpd/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaushalkumar123456&show_icons=true&locale=en&layout=compact" alt="kaushalkumar123456" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaushalkumar123456&show_icons=true&locale=en" alt="kaushalkumar123456" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaushalkumar123456&" alt="kaushalkumar123456" /></p> -->
-
-
-
-
-
-
-
-
-
-
 <h1 align="center">Hi 👋, I'm Kaushal Kumar</h1>
 
-<h3 align="center">🚀 Data Science | Machine Learning | Python Developer from India 🇮🇳</h3>
+<h3 align="center">🚀 Data Scientist | Machine Learning Engineer | Python Developer from India 🇮🇳</h3>
 
-
-
-<!-- ======================= -->
-<!-- 🔥 3D Animated Banner -->
-<!-- ======================= -->
-
+<!-- 🌌 PREMIUM HEADER -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Kaushal%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Developer%20%7C%20Python%20Expert&descAlignY=60&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,15:0a192f,35:1e40af,60:2563eb,85:38bdf8,100:7dd3fc&height=370&section=header&text=Smriti%20Kumari&fontSize=66&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20|%20ML%20Developer%20|%20Python%20Expert&descAlignY=61&descSize=22" />
 </p>
 
-
-
-
-
-<!-- Typing Animation -->
-
+<!-- ✨ FAST TYPING -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F72E&center=true&vCenter=true&width=750&lines=Machine+Learning+Developer;Data+Science+Enthusiast;Python+Programmer;Deep+Learning+Learner;Open+Source+Contributor;Hire+Me+for+AI+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2200&pause=400&color=38BDF8&center=true&vCenter=true&width=980&lines=🤖+Machine+Learning+Engineer;📊+Data+Scientist;🐍+Python+Developer;🧠+Deep+Learning+Explorer;📈+Turning+Data+Into+Insights;💡+Future+AI+Innovator" />
 </p>
 
 ---
 
-
-
+## 🌌 About Me
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F72E&center=true&vCenter=true&width=700&lines=Machine+Learning+Developer;Data+Science+Enthusiast;Python+Programmer;Deep+Learning+Learner;Open+Source+Contributor" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Who+Am+I%3F;Passionate+About+AI+%26+Data;Always+Learning+Always+Building" />
+</p>
+
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🔭 Currently building **AI / Machine Learning Projects**
+- 🌱 Learning **Deep Learning, NLP, MLOps**
+- 👯 Open for **Open Source & AI Collaborations**
+- 💬 Ask me about **Python, Data Science, ML**
+- 📈 Passionate about solving real-world problems with data
+- ⚡ Fun fact: **Debugging is my superpower 😄**
+
+---
+
+<!-- 📊 DATA ANALYTICS FRIENDLY ANIMATION -->
+<p align="center">
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%" />
+</p>
+
+<!-- 🏆 BADGES -->
+<p align="center">
+<img src="https://img.shields.io/badge/Data-Analytics-2563EB?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine-Learning-1E40AF?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ---
 
-## 🌟 About Me
 
-- 🔭 Currently working on **Machine Learning Projects**
-- 🌱 Learning **Deep Learning, MLOps, Deployment**
-- 👯 Looking to collaborate on **AI / ML Projects**
-- 💬 Ask me about **Python, ML, Data Analysis**
-- ⚡ Fun fact: **I love debugging 😄**
 
----
-
-## 🌐 Connect With Me
+## ⚡ Tech Stack
 
 <p align="center">
-<a href="https://linkedin.com/in/kaushal-kumar-21749826b"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://www.kaggle.com/hereitskaushal"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" width="48"/></a>
-<a href="https://leetcode.com/u/kaushalkumar638486373/"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="48"/></a>
-<a href="mailto:datascience.kaushal05@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=💻+Tools+I+Work+With;🚀+Building+With+Modern+Tech;⚡+Data+Science+%7C+Development" />
 </p>
 
----
-
-## 💻 Tech Stack
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,mongodb,git,github,vscode,linux,docker,html,css,javascript" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,mysql,mongodb,git,github,docker,vscode,linux&perline=9&theme=dark" />
 </p>
 
----
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749695-7d7c2f48-7d68-4f43-bd55-6c8c4b7f95cb.gif" width="100%" />
+</p>
 
-## 📊 GitHub Stats
+
+## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kaushalkumar123456&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushalkumar123456&layout=compact&theme=tokyonight" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=📊+GitHub+Analytics;🚀+Coding+Journey+In+Numbers;💻+Projects+%7C+Languages+%7C+Stats;⚡+Consistency+Creates+Success" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749695-7d7c2f48-7d68-4f43-bd55-6c8c4b7f95cb.gif" width="100%" />
+</p>
+
+<p align="center">
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=Smritibhardwaz2711&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=ffffff&rank_icon=github" />
+
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smritibhardwaz2711&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=ffffff" />
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=7DD3FC&center=true&vCenter=true&width=700&lines=Building+Projects+Every+Day;Learning+New+Technologies;Transforming+Ideas+Into+Code" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Open_Source-Contributor-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Focus-Python_&_AI-1E40AF?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Growth-Continuous-38BDF8?style=for-the-badge&logo=rocket&logoColor=white"/>
 </p>
 
 ---
@@ -125,50 +93,117 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=kaushalkumar123456&theme=tokyonight" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=🔥+GitHub+Streak;⚡+Consistency+Builds+Success;💻+Coding+Every+Step+Forward;🚀+Small+Commits+Big+Results" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212750110-1b6c7a66-67c1-4a88-a8fc-4b2f2a6a4c4b.gif" width="100%" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Smritibhardwaz2711&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=ffffff&dates=7dd3fc&stroke=0d1117" />
+</p>
+
+<p align="center">
+💡 My GitHub streak reflects discipline, consistency, and continuous learning through projects, coding practice, and technical growth.
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=7DD3FC&center=true&vCenter=true&width=720&lines=Code+Daily+%7C+Grow+Daily;One+Commit+Closer+To+Success;Discipline+Turns+Dreams+Into+Reality" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Consistency-Daily_Commits-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Focus-Learning-1E40AF?style=for-the-badge&logo=bookstack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Growth-Never_Stop-38BDF8?style=for-the-badge&logo=rocket&logoColor=white"/>
 </p>
 
 ---
 
-## 🏆 Trophies
+
+
+
+## 👀 Visitors
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kaushalkumar123456&theme=algolia&row=1&column=7" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=👀+Profile+Visitors;🌍+People+Exploring+My+Work;🚀+Welcome+To+My+GitHub+Journey;💙+Thanks+For+Visiting" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749695-7d7c2f48-7d68-4f43-bd55-6c8c4b7f95cb.gif" width="100%" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Smritibhardwaz2711&label=PROFILE+VIEWS&color=2563eb&style=for-the-badge" />
+</p>
+
+<p align="center">
+💡 Every visit motivates me to keep learning, building projects, and growing as a developer.
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=7DD3FC&center=true&vCenter=true&width=720&lines=Thank+You+For+Stopping+By;Let's+Connect+And+Build+Together;Exploring+Ideas+Through+Code" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Visitors-Welcome-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Profile-Active-1E40AF?style=for-the-badge&logo=rocket&logoColor=white"/>
+<img src="https://img.shields.io/badge/Growth-Continuous-38BDF8?style=for-the-badge&logo=graph&logoColor=white"/>
+</p>
+
+---
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/smriti-kumari27/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="65"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.geeksforgeeks.org/profile/smritikumaricutm" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/geeksforgeeks.svg" width="65" style="filter: drop-shadow(0 0 8px #00ff7f);"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:smritibz27@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="65"/>
+</a>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=500&lines=Let's+Connect+Professionally;Open+for+Internships;Always+Learning+New+Things" />
+</p>
+
+## 💙 Quote
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=💙+Quote+of+the+Day;✨+Words+That+Inspire+Growth;🚀+Mindset+Drives+Success;💡+Stay+Hungry+Stay+Learning" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749695-7d7c2f48-7d68-4f43-bd55-6c8c4b7f95cb.gif" width="100%" />
+</p>
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+<p align="center">
+<i><b>"Dream in code, build with data, grow with consistency."</b></i>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=7DD3FC&center=true&vCenter=true&width=720&lines=Success+Starts+With+Discipline;Consistency+Creates+Greatness;Code+Today+Lead+Tomorrow" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Mindset-Growth-2563EB?style=for-the-badge&logo=target&logoColor=white"/>
+<img src="https://img.shields.io/badge/Focus-Consistency-1E40AF?style=for-the-badge&logo=rocket&logoColor=white"/>
+<img src="https://img.shields.io/badge/Goal-Success-38BDF8?style=for-the-badge&logo=starship&logoColor=white"/>
 </p>
 
 ---
 
-## 👀 Profile Views
-
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=kaushalkumar123456&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,20:38bdf8,45:2563eb,70:1e3a8a,100:020617&height=200&section=footer&animation=fadeIn&reversal=true&customColorList=0,2,2,5,30&fontColor=ffffff" />
 </p>
-
----
-
-## 💖 Quote
-
-<p align="center">
-"Consistency beats talent when talent doesn't work hard."
-</p> -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
