@@ -4,7 +4,7 @@
 
 <!-- 🌌 PREMIUM HEADER -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,15:0a192f,35:1e40af,60:2563eb,85:38bdf8,100:7dd3fc&height=370&section=header&text=Smriti%20Kumari&fontSize=66&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20|%20ML%20Developer%20|%20Python%20Expert&descAlignY=61&descSize=22" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,15:0a192f,35:1e40af,60:2563eb,85:38bdf8,100:7dd3fc&height=370&section=header&text=Kaushal%20Kumar&fontSize=66&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20|%20ML%20Developer%20|%20Python%20Expert&descAlignY=61&descSize=22" />
 </p>
 
 <!-- ✨ FAST TYPING -->
