@@ -32,9 +32,22 @@
 ---
 
 <!-- 📊 DATA ANALYTICS FRIENDLY ANIMATION -->
-<p align="center">
+<!-- <p align="center">
 <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%" />
-</p>
+</p> -->
+
+
+
+<p align="center" style="background-color:#0f172a; padding:20px; border-radius:15px;">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTdvNWk0OXdlZGUwNXVocHY1ZzBsMzc4NTZsam9jZjR6Z3hwZmszdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TncmRRvEGVoVcHgaAb/giphy.gif" width="100%" />
+</p>>
+
+
+
+
+
+
+
 
 <!-- 🏆 BADGES -->
 <p align="center">
