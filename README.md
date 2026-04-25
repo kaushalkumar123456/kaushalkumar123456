@@ -168,17 +168,17 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/smriti-kumari27/" target="_blank">
+<a href="https://www.linkedin.com/in/kaushal-kumar-21749826b/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="65"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://www.geeksforgeeks.org/profile/smritikumaricutm" target="_blank">
+<a href="https://www.geeksforgeeks.org/batch/placement-prep-paralakhemundi?tab=Leaderboard" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/geeksforgeeks.svg" width="65" style="filter: drop-shadow(0 0 8px #00ff7f);"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="mailto:smritibz27@gmail.com">
+<a href="mailto:realkaushal365@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="65"/>
 </a>
 </p>
