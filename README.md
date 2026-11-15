@@ -359,7 +359,7 @@ Prepare datasets, explore features, train predictive models and evaluate model p
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Every+Contribution+Tells+A+Story;Keep+Building+%7C+Keep+Growing"/>
 
-<img width="100%" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
+<img width="100%" src="https://raw.githubusercontent.com/kaushalkumar123456/kaushalkumar123456/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
 
 </div>
 
