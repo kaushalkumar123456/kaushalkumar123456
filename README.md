@@ -339,9 +339,9 @@ Prepare datasets, explore features, train predictive models and evaluate model p
 
 <br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=https://github.com/kaushalkumar123456&show_icons=true&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E2E8F0"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/kaushalkumar123456&layout=compact&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E2E8F0"/>
 
 <br/><br/>
 
