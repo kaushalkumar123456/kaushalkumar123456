@@ -331,23 +331,27 @@ Prepare datasets, explore features, train predictive models and evaluate model p
 
 <!-- ====================== GITHUB ANALYTICS ====================== -->
 
+<!-- GITHUB ANALYTICS CENTER -->
+
 <h2 align="center">📊 GITHUB ANALYTICS CENTER</h2>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaushalkumar123456&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF&rank_icon=github" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushalkumar123456&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF" height="180" />
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Analyzing+My+Coding+Journey;Every+Commit+Represents+Progress;Learning+%7C+Building+%7C+Growing"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kaushalkumar123456&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="90%" />
+</p>
 
-<br/><br/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaushalkumar123456&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF" width="100%" />
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=https://github.com/kaushalkumar123456&show_icons=true&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0&rank_icon=github"/>
+<p align="center">
+  <i>Learning | Building | Growing 🚀</i>
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/kaushalkumar123456&layout=compact&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E2E8F0"/>
-
-<br/><br/>
-
-<img width="80%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=FFFFFF&dates=7DD3FC"/>
-
-</div>
 
 ---
 
